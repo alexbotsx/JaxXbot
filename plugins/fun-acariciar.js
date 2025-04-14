@@ -1,4 +1,4 @@
-//Codígo de GHOSTBOT
+//Codígo de JAXXBOT
 
 import fs from 'fs';
 import path from 'path';
